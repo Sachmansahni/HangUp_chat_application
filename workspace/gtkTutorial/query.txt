@@ -1,0 +1,3 @@
+what is a gtk container?
+a container which can have one more widget
+it has this limitation of adding only one widget at a time
